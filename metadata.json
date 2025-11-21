@@ -1,0 +1,5 @@
+{
+  "name": "Voter Registration Status Checker",
+  "description": "Instant, secure, and privacy-focused tool to check your voter registration status in the US. Includes official 2024 election guide, deadlines, and state rules.",
+  "requestFramePermissions": []
+}
