@@ -9,7 +9,7 @@
 A modern, high-fidelity web application designed to simulate the voter registration checking process. This project emphasizes **privacy-first architecture**, **immersive UI/UX**, and **SEO optimization**.
 
 ### 🚀 LIVE DEMO
-**[RegistrationStatus.doodax.com](https://RegistrationStatus.doodax.com)**
+**[doodax.com](https://doodax.com/tools/registration-status/index.html)**
 
 ---
 
