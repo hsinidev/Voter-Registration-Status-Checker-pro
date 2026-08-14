@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Voter Registration Status Checker Pro
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Voter%20Registration%20Statu&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Voter Registration Status Checker Pro Header Banner" />
+
+  <h1>🚀 Voter Registration Status Checker Pro</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/Voter-Registration-Status-Checker-pro"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Voter Registration Status Checker Pro** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,83 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Voter Registration Status Checker (UI Showcase)
-
-
-A modern, high-fidelity web application designed to simulate the voter registration checking process. This project emphasizes **privacy-first architecture**, **immersive UI/UX**, and **SEO optimization**.
-
-### 🚀 LIVE DEMO
-**[doodax.com](https://doodax.com/tools/registration-status/index.html)**
-
----
-
-## 📖 Project Description
-
-The **Voter Registration Status Checker** is a portfolio piece built by **HSINI MOHAMED**. It demonstrates how critical civic tools can be built with a focus on user experience (UX) without compromising security.
-
-The application features a custom HTML5 Canvas galaxy background, glassmorphism UI elements, and a fully responsive layout. It includes a comprehensive SEO strategy with JSON-LD structured data for "Article" and "FAQPage" schemas.
-
-**Note:** This is a frontend simulation. No data is sent to any server.
-
-## 🌟 Key Features
-
--   **🌌 Immersive Galaxy Background**: A custom-coded, multi-colored particle system simulating a deep space nebula.
--   **🔒 Privacy-First**: All data entered remains in the browser's memory and is cleared on refresh.
--   **📱 Fully Responsive**: Optimized for Mobile, Tablet, and Desktop experiences.
--   **♿ Accessible**: Built with semantic HTML and ARIA labels.
--   **🔍 SEO Optimized**: Includes `sitemap.xml`, `robots.txt`, and extensive meta tags.
--   **📚 Educational Content**: Features a collapsible 3,500-word guide on voting rights.
-
-## 📂 Project Structure
-
-```bash
-/
-├── index.html                  # Main entry point with SEO Meta & Schema
-├── index.tsx                   # React DOM root
-├── App.tsx                     # Main application layout assembly
-├── types.ts                    # TypeScript interfaces
-├── constants.ts                # Static datasets (US States)
-├── favicon.svg                 # Vector branding icon
-├── robots.txt                  # Search engine directives
-├── sitemap.xml                 # SEO site map
-├── components/
-│   ├── Layout.tsx              # App wrapper, Footer, Galaxy Canvas, Modals
-│   ├── RegistrationCheckerUI.tsx # Interactive Form logic
-│   └── SeoArticle.tsx          # Collapsible long-form content
-└── lib/
-    └── formValidation.ts       # Input validation utilities
-```
-
-## 🚀 Getting Started
-
-This project is built for standard modern browser environments using ES Modules.
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/hsinidev/voter-registration-ui.git
-    ```
-
-2.  **Install Dependencies** (If converting to a build process)
-    ```bash
-    npm install
-    ```
-
-3.  **Run Locally**
-    You can serve the root directory with any static server:
-    ```bash
-    npx http-server .
-    ```
-
-
-**HSINI MOHAMED**
-
--   **Website:** [doodax.com](https://doodax.com)
--   **Email:** [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
--   **GitHub:** [@hsinidev](https://github.com/hsinidev)
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
